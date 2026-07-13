@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly.express as px 
 import duckdb
 
 # ============ 把问答引擎直接集成在这里，不再需要外部导入 ============
